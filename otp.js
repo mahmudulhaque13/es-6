@@ -17,7 +17,7 @@ function validOtp(otp) {
   return true;
 }
 // console.log(validOtp("ph-10985")); // true
-console.log(validOtp("ph-1234")); // false
+// console.log(validOtp("ph-1234")); // false
 // console.log(validOtp("abc-12345"));    // false
 // console.log(validOtp(["ph-10985"]));   // "Invalid"
 // console.log(validOtp(12345678));
